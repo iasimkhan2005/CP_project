@@ -1,0 +1,11 @@
+﻿  cp_project.cpp
+C:\Users\M Tech\OneDrive - Higher Education Commission\Bahria Uni\CP LAB\cp_project\cp_project\cp_project.cpp(305,27): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\M Tech\OneDrive - Higher Education Commission\Bahria Uni\CP LAB\cp_project\cp_project\cp_project.cpp(405,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\M Tech\OneDrive - Higher Education Commission\Bahria Uni\CP LAB\cp_project\cp_project\cp_project.cpp(412,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\M Tech\OneDrive - Higher Education Commission\Bahria Uni\CP LAB\cp_project\cp_project\cp_project.cpp(419,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\M Tech\OneDrive - Higher Education Commission\Bahria Uni\CP LAB\cp_project\cp_project\cp_project.cpp(426,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 148 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  cp_project.vcxproj -> C:\Users\M Tech\OneDrive - Higher Education Commission\Bahria Uni\CP LAB\cp_project\x64\Release\cp_project.exe
